@@ -111,6 +111,14 @@ function Home() {
             >
               View Events from Backend
             </button>
+            <a
+              href="https://society-management-project-hackatho.vercel.app/admin/college"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-3 rounded-full border border-sky-500/70 text-sky-300 text-sm md:text-base hover:bg-sky-500/10 hover:border-sky-400 transition-all duration-300 inline-flex items-center justify-center"
+            >
+              Redirect Back
+            </a>
           </div>
         </div>
       </div>
