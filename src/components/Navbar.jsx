@@ -96,7 +96,7 @@ function Navbar() {
             </div>
           </NavLink>
           <p className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-sky-300 via-cyan-200 to-indigo-300 font-montserrat tracking-wide">
-            Soc Connect
+            SocConnect
           </p>
         </div>
 
